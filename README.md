@@ -1,6 +1,6 @@
 # Rest-Web-server
 The project consists of the creation of a Rest Web Server with the function of translator from English to Italian.
-The [Software_Platforms.pdf](Software_Platforms.pdf "Software_Platforms.pdf") file describes all the technologies used to develop it.
+The [Rest_Web_service.pdf](Rest_Web_service.pdf "Rest _Web_service.pdf") file describes all the technologies used to develop it.
 The *Translator.exe* and *Translator.jar* files are the two executable files created for the project presentation.
 The web server was located on the sp-server.sytes.net site, but currently the site is down so to make the code work you need to use a new one.
 Inside the folders there is all the code used for the creation of the web server.
