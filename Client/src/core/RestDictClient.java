@@ -28,7 +28,6 @@ public class RestDictClient {
     		System.exit(1);
     	}
     	 
-//    	System.exit(0);
     	
     	Client client = ClientBuilder.newClient(new ClientConfig());    	
 
