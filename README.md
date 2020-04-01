@@ -9,6 +9,8 @@ Inside the folders there is all the code used for the creation of the web server
 The project was developed with java 1.8 on Eclipse.
 Php, javascript, and css were used for the Web part.
 
+
+
 ### Server 
 The [Server](Server "Server")  folder contains all the files that are needed for the server part of our Web server. Being the web server developed through Tomcat, we created the Server folder to get a .war file to use on Tomcat. So in addition to the .java files we have inserted make files (to be executed in alphabetical order) that allow you to create a .war file. The server comes, for convenience, contacted in port *8080*  (Tomcat's default port).
 
