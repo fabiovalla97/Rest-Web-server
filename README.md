@@ -6,8 +6,8 @@ The web server was located on the sp-server.sytes.net site, but currently the si
 Inside the folders there is all the code used for the creation of the web server.
 
 ## Requirements
-The project was developed with java 1.8 on Eclipse.
-Php, javascript, and css were used for the Web part.
+- The project was developed with java 1.8 on Eclipse.
+- Php, javascript, and css were used for the Web part.
 
 
 
